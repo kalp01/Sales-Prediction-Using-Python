@@ -1,4 +1,4 @@
-Sales Prediction Using Python:
+# Sales Prediction Using Python:
 
 This Sales challenge, is a regression problem wherein we have to predict product-wise and store-wise sales.
 Sales prediction is a very common real-life problem that each company faces at-least once in its lifetime. If done correctly, it can have a significant impact on the success and performance of that company.According to a study, companies with accurate sales predictions are 10% more likely to grow their revenue year-over-year and 7.3% more likely to hit quota.
